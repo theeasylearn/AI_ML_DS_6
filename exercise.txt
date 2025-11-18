@@ -1,0 +1,4 @@
+1) write a program to convert user given kilograms into grams 
+2) write a program to convert user given bytes into KB, MB, GB
+3) write a program to convert user given rupees into dollar and euro, pound 
+4) write a program to convert user given inches into foot, meter 
