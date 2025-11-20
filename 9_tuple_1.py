@@ -1,0 +1,12 @@
+#tuples 
+gods = ('bramha','vishnu','shiv')
+box = (100,'pinapple',3.14,True,None,False,'pinapple')
+print(gods)
+print(gods[0])
+print(gods[0:2])
+print(box[2:])
+print(gods + box)
+print("position of pinapple in box",box.index('pinapple'))
+print("count of pinapple in box",box.count('pinapple'))
+# print("position of apple in box",box.index('apple'))
+print('good bye')

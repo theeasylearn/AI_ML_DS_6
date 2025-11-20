@@ -42,6 +42,13 @@ tuple
     update courses name 
     remove establishment year 
     print dictionary 
+    add staff key which is list and has 5 teacher names 
+    add floor key which is tuples and has number of class room on particular floor 
+    print dictionary 
+    add one more staff shivangi 
+    remove staff named as khyati 
+    remove key value pair floor 
+    print dictionary 
     
 5) Create Dictionary to store your college details like name, trust, pricipal, establishment year, address, city, courses etc 
     print dictionary 
