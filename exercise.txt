@@ -73,7 +73,7 @@ tuple
 decision making excercise
 ------------------------------------
 
-1) write a program to convert 24 hours time into 12 hours format time and display it with AM PM message. 
+1) write a program to convert 24 hours time into 12 hours format time and display it with AM PM message. (using simple if )
 input : 15 hours 
 output  3 PM 
 
@@ -83,7 +83,7 @@ output  11 AM
 input : 25 hours 
 output  invalid input 
 
-
+1.2) write a program to findout whether given shape is square or potrait or landscape using given length and width. (use simple if )
 
 2) write a program to accept length and width of two different farm from user. and findout & display which farm is bigger 
 
@@ -100,7 +100,7 @@ output  invalid input
 
 7) write a program to decide which is better approach to go from ahmedabad to delhi. by car or by train. person has his own petrol car 
 
-4) 
+8) 
 Write a program that takes a 5 subject marks from user. calculate total and average  and prints the grade using the following conditions:
 
 | Percentage | Grade |
@@ -113,11 +113,11 @@ Write a program that takes a 5 subject marks from user. calculate total and aver
 | below 50   | Need to improve  |
 ----------------------------------------
 
-1) write a program to accept 2 number from user. and accept choice for operations.
+9) write a program to accept 2 number from user. and accept choice for operations.
 operations will be addition, subtraction, multiplication, division
 do operation and display result as per user choice using switch statements.
 
-2) write a program to accept month number from user and display how many days month has. 
+10) write a program to accept month number from user and display how many days month has. 
     input : 1 output : this month has 31 days 
     input : 4 output : this month has 30 days 
 
