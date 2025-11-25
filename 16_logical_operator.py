@@ -10,4 +10,4 @@ result2 = num1 == num2 or num2 == num3
 print(f"or -> {result2} = {num1} == {num2} or {num2} == {num3}")
 
 result3 = not (num1 == num2 and num2 == num3)
-print(f"not -> {result3} = not ({num1} == {num2} and {num2} == {num3})")
+print(f"not -> {result3} = not ({num1} == {num2} and {num2} == {num3})") 

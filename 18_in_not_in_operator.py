@@ -12,4 +12,4 @@ g20 = ("Argentina", "Australia", "Brazil", "Canada", "China", "France", "Germany
 
 country = input("give one country name which is not a memeber of G20")
 result2 = country not in g20
-print(f"result2 = {result2}")
+print(f"result2 = {result2}") 
