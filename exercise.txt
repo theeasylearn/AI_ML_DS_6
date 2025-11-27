@@ -96,7 +96,7 @@ output  invalid input
 
 5) write a program to findout elder brother from two brother age. 
 
-6) write a program to findout which is cheaper approach to buy IPhone 17 pro max.  consider use is going usa should he buy iphone from usa or from india. 
+6) write a program to findout which is cheaper approach to buy IPhone 17 pro max.  consider user is going usa should he buy iphone from usa or from india. 
 
 7) write a program to decide which is better approach to go from ahmedabad to delhi. by car or by train. person has his own petrol car 
 
@@ -120,9 +120,9 @@ do operation and display result as per user choice using switch statements.
     input : 1 output : this month has 31 days 
     input : 4 output : this month has 30 days 
 
-3) write a program to findout whether given year is millenium year or not 
+11) write a program to findout whether given year is millenium year or not 
 
-4) write a program to accept birth day and birth month from user. decide zodiac sign from below table 
+12) write a program to accept birth day and birth month from user. decide zodiac sign from below table 
     Aries: March 21–April 19
     Taurus: April 20–May 20
     Gemini: May 21–June 21
@@ -136,13 +136,17 @@ do operation and display result as per user choice using switch statements.
     Aquarius: January 20–February 18
     Pisces: February 19–March 20
 
+13) Write a program to findout day of week from given day, month, year 
+    input: day = 27, month = 11, year = 2025
+    output : Thursday
+    use reference https://www.wikihow.com/Calculate-the-Day-of-the-Week
+
 while loop 
 ---------------------
-1   100  95  90  85  80  75  70  65  60  ..... 0
-2   1    4   9   16  25  36  .... 1000
-3   1    -8   27  -64  .....    1000
-4   0    1   1   2   3   5   8   13  .... 100
-
+1)   100  95  90  85  80  75  70  65  60  ..... 0
+2)   1    4   9   16  25  36  .... 1000
+3)   1    -8   27  -64  .....    1000
+4)   0    1   1   2   3   5   8   13  .... 100
 -------------------------
 5   write a program to findout only compound interest of given amount, rate, year 
 6   write a program to findout power of given base and exponent 
