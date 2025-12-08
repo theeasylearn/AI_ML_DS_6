@@ -214,6 +214,15 @@ nested loop
 
 functions
 -----------------------------------------------
+basic 
+    1) create function that returns maximum number from 3 given numbers 
+    2) create function that display given number into reverse (input 123 display 321)
+    3) create function that return greatest common diviser between 2 given number (G.C.D)
+    4) create function that return least common diviser between 2 given number (L.C.D)
+    5) create function getSeconds which has hours, minutes and seconds which return total seconds 
+
+
+advance
 1) create function that has arbitary arguments of string type and it display all strings into lower case.
 toLowerCase('Apple','bAnana','ManGO','KIWI','graps')
 output 
@@ -221,10 +230,8 @@ output
 
 2) create function that returns average of player score of all 11 players (arbitary arguments)
 
-3) create function getSeconds which has hours, minutes and seconds which return total seconds 
+3) create lambda function which return compound interest of given amount, rate, year 
 
-4) create lambda function which return compound interest of given amount, rate, year 
-
-5) create lambda function that return true if city passed as 1st argument exist in list passed argument as 2nd argument, if city does not exist return false 
+4) create lambda function that return true if city passed as 1st argument exist in list passed argument as 2nd argument, if city does not exist return false 
     isCityExist('Bhavnagar',['Bombay','Baroda','rajkot']) # false
     isCityExist('rajkot',['Bombay','Baroda','rajkot']) # true 
