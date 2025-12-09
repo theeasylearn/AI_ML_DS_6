@@ -219,8 +219,8 @@ basic
     2) create function that display given number into reverse (input 123 display 321)
     3) create function that return greatest common diviser between 2 given number (G.C.D)
     4) create function that return least common diviser between 2 given number (L.C.D)
-    5) create function getSeconds which has hours, minutes and seconds which return total seconds 
-
+    5) create function getSeconds which has hours, minutes and seconds which return total seconds here minutes and seconds are optional and its default value will be 0 
+    6) create function getInches which return total inches of given meter, foot, inches. here meter and foots are optional and its default value will be 0 (call this function using concept of keyword arguments)
 
 advance
 1) create function that has arbitary arguments of string type and it display all strings into lower case.
